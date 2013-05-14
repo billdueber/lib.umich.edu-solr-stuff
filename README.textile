@@ -2,6 +2,10 @@ h1. What is this?
 
 These are java methods, along with some solr analyzers, that we've found useful in implementing our "Solr-based OPAC":http://mirlyn.lib.umich.edu/ at the "University of Michigan University Library":http://lib.umich.edu/. 
 
+h1. What version of Solr?
+
+Use the git branch "1.4" to use it on Solr 1.4. Master is targeting modern Solr installs.
+
 h1. How do I install it?
 
 For the solr normalizers, just put the .jar file somewhere your java container (Jetty, Tomcat, whatever) will be able to find and use it. If you're using Solrmarc to index your data, you need to do the same thing -- make sure there's a copy in your @lib@ directory so Solrmarc can find it. The HLB stuff is explained further down.
