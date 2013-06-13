@@ -1,3 +1,14 @@
+h1. Don't use this anymore!
+
+---
+
+bq. I've extracted and reorganized the solr analyzer filters into a new repo
+at https://github.com/billdueber/solr-libstdnum-normalize. This repo will no longer be updated.
+
+bq. I'll figure out what todo with the HLB stuff later.
+
+----
+
 h1. What is this?
 
 These are java methods, along with some solr analyzers, that we've found useful in implementing our "Solr-based OPAC":http://mirlyn.lib.umich.edu/ at the "University of Michigan University Library":http://lib.umich.edu/. 
