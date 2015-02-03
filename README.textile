@@ -1,13 +1,7 @@
 h1. Don't use this anymore!
 
----
 
-bq. I've extracted and reorganized the solr analyzer filters into a new repo
-at https://github.com/billdueber/solr-libstdnum-normalize. This repo will no longer be updated.
-
-bq. I'll figure out what todo with the HLB stuff later.
-
-----
+**DEPRECATED**. Use [https://github.com/billdueber/umich_solr_library_filters](https://github.com/billdueber/umich_solr_library_filters) instead.
 
 h1. What is this?
 
