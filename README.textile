@@ -1,7 +1,7 @@
 h1. Don't use this anymore!
 
 
-**DEPRECATED**. Use [https://github.com/billdueber/umich_solr_library_filters](https://github.com/billdueber/umich_solr_library_filters) instead.
+**DEPRECATED**. Use "https://github.com/billdueber/umich_solr_library_filters":https://github.com/billdueber/umich_solr_library_filters instead.
 
 h1. What is this?
 
