@@ -22,7 +22,7 @@
   <groupId>edu.umich.lib.solr</groupId>
   <artifactId>solr-umichnormalizers</artifactId>
   <name>Apache Solr Library Datatype normalizers</name>
-  <version>4.3.0</version>
+  <version>8.8.2</version>
   <description>Text filters for library datatypes</description>
   <packaging>jar</packaging>
   <dependencies>
